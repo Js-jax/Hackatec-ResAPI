@@ -1,6 +1,5 @@
-# Backend de Nodejs
+# Tricity API: Solución Inteligente para la Eficiencia Energética en Tiempo Real para Universidades Públicas
 
-Este es mi proyecto de Node.js generado con ChatGPT 3.5. Aquí se encuentra una breve descripción del proyecto.
 
 ## Instalación
 
@@ -12,7 +11,6 @@ Para instalar este proyecto, sigue estos pasos:
 ## Uso
 
 Para ejecutar el proyecto, utiliza el siguiente comando:
-
 ```
 npm start
 ```
